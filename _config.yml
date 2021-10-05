@@ -4,7 +4,7 @@ description:        Algorithm assignment for Algorithm class 2021
 author:             
 baseurl:            ""
 url:                "https://cosmosJ0392.github.io"
-permalink: /:categories/:title/
+
 
 # Social Profiles
 twitter_username:   
