@@ -60,7 +60,7 @@
         }
     }
     
-    @media (min-width:800px){
+    @media only screen and (min-width:800px){
         >#iframebox {
             text-align: center;
             padding-bottom: initial;
